@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- API Key pour Firebase -->
+    <string name="google_api_key">AIzaSyBGWtlBBmdpVQ9TfUDkPz4VqfxBdoxT1fY</string>
+
+    <!-- Web Client ID pour OAuth -->
+    <string name="default_web_client_id">1:736451319430:android:dc9d40a403c182b58ee307</string>
+
+    <!-- URL de la base de données Firebase (si tu utilises Firebase Database) -->
+    <string name="firebase_database_url">https://notes-app-4f1c0.firebaseio.com</string>
+
+    <!-- Bucket de stockage Firebase -->
+    <string name="firebase_storage_bucket">notes-app-4f1c0.appspot.com</string>
+
+    <!-- ID du projet Firebase -->
+    <string name="project_id">notes-app-4f1c0</string>
+</resources>
